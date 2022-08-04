@@ -1,0 +1,38 @@
+html, body {
+    margin: 0px;
+    background-color: rgba(93, 193, 185, 0.83);
+}
+
+.titulo1 {
+    text-align: right;
+    color: blue;
+    background-color: rgba(14, 158, 202, 0.67);
+    
+}
+
+.titulo2 {
+    text-align: right;
+    color: black;
+    background-color: rgba(14, 158, 202, 0.67);
+}
+
+.logo {
+    position: left;
+   }
+
+   
+   .botones {
+    background-color: rgba(226, 190, 153, 0.67);
+
+}
+   
+.fgh {
+    background-color: rgba(226, 190, 153, 0.67);
+}
+.fgi {
+    background-color: rgba(226, 190, 153, 0.67);
+}
+
+.fff {
+    background-color: rgba(226, 190, 153, 0.67);
+}

@@ -1,0 +1,40 @@
+html, body {
+    margin: 0px;
+    background-color: rgba(93, 193, 185, 0.83);
+}
+
+.titulo1 {
+    text-align: right;
+    color: blue;
+    background-color: rgba(14, 158, 202, 0.67);
+    
+}
+
+.titulo2 {
+    text-align: right;
+    color: black;
+    background-color: rgba(14, 158, 202, 0.67);
+}
+
+.logo {
+    position: left;
+   }
+
+   .abc {
+    background-color: rgba(226, 190, 153, 0.67);;
+   }
+
+   
+   .abc {
+    background-color: rgba(226, 190, 153, 0.67);;
+   }
+
+   .bcd {
+
+    background-color: rgba(226, 190, 153, 0.67);
+   }
+
+   .botones {
+    background-color: rgba(14, 158, 202, 0.67);
+
+}
